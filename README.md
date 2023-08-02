@@ -5,6 +5,7 @@
 - 🐍 Python
 - 🟨 JavaScript
 - 🟩 Node.js
+- ☕ Java
 - 🛠️ C
 - 🔷 C#
 - ➕ C++
