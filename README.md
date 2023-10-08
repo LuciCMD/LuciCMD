@@ -11,12 +11,12 @@
 
   ## 🔧 All Known Languages
   
-  - 🐍 Python
-  - 🟨 JavaScript
-  - 🟩 Node.js
-  - ☕ Java
-  - 🛠️ C
-  - 🔷 C#
-  - ➕ C++
+   🐍 Python
+   🟨 JavaScript
+   🟩 Node.js
+   ☕ Java
+   🛠️ C
+   🔷 C#
+   ➕ C++
 
 </div>
