@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Luci!
 
-## 🔧 Languages and Technologies
+## 🔧 Languages
 
 - 🐍 Python
 - 🟨 JavaScript
