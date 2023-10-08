@@ -7,14 +7,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuciCMD&theme=dark&hide_border=true" alt="LuciCMD" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=LuciCMD&label=Profile%20views&color=9898fd&style=flat-square" alt="LuciCMD" />
+
+
+  ## 🔧 All Known Languages
+  
+  - 🐍 Python
+  - 🟨 JavaScript
+  - 🟩 Node.js
+  - ☕ Java
+  - 🛠️ C
+  - 🔷 C#
+  - ➕ C++
+
 </div>
-
-## 🔧 All Known Languages
-
-- 🐍 Python
-- 🟨 JavaScript
-- 🟩 Node.js
-- ☕ Java
-- 🛠️ C
-- 🔷 C#
-- ➕ C++
