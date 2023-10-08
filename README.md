@@ -1,6 +1,15 @@
-# 👋 Hello, I'm Luci!
+<div align="center">
+  <h1>Hello 👋, I'm Luci</h1>  
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciCMD&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="LuciCMD" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciCMD&theme=dark&hide_border=true" alt="LuciCMD" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuciCMD&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="LuciCMD" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=LuciCMD&label=Profile%20views&color=0e75b6&style=flat-square" alt="LuciCMD" />
+</div>
 
-## 🔧 Languages
+## 🔧 All Known Languages
 
 - 🐍 Python
 - 🟨 JavaScript
