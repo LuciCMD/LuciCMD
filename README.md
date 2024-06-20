@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome, I'm Luci</h1>  
+  <h1>Welcome!</h1>  
   <img src="https://github-readme-stats.vercel.app/api?username=LuciCMD&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=c9c9ff&text_color=c9c9ff&title_color=c9c9ff" alt="LuciCMD" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciCMD&theme=dark&hide_border=true" alt="LuciCMD" />
@@ -18,5 +18,8 @@
    🛠️ C
    🔷 C#
    ➕ C++
+   🟧 Kotlin
+   🟩 Ruby
+   🟩 Go
 
 </div>
