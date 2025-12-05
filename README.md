@@ -8,7 +8,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=LuciCMD&label=Profile%20views&color=bd93f9&style=flat-square" alt="LuciCMD" />
 
-  ## 🌟 Languages I do the stuff things with
+  ## 🌟 Languages I do stuff and things with
   
   • 🎭 Python
   • 🌈 JavaScript
