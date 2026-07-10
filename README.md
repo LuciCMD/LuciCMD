@@ -4,8 +4,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciCMD&theme=calm_pink" alt="LuciCMD" />
   <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LuciCMD&theme=calm_pink" alt="LuciCMD" />
-  <br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LuciCMD&layout=donut&langs_count=5&theme=calm_pink" alt="LuciCMD" />
 
   ## 🌟 Languages I do stuff and things with
